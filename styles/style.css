@@ -1,0 +1,30 @@
+body {
+    margin: 25px;
+}
+
+.pic {
+    width: 400px;
+    height: 300px;
+}
+
+.pic.pestopasta {
+    width: 450px;
+    height: 400px;
+}
+
+div.polaroid {
+    width: 400px;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+}
+
+div.container {
+    text-align: center;
+    padding: 10px 20px;
+}
+
+ul.recipe {
+    list-style-type: circle;
+    list-style-position: outside;
+}
